@@ -1,0 +1,33 @@
+{
+  "name": "mutable-array",
+  "version": "1.0.0",
+  "description": "Mutable array functions (mmap, mfilter)",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wankdanker/node-mutable-array.git"
+  },
+  "keywords": [
+    "mutable",
+    "array",
+    "in",
+    "place",
+    "map",
+    "fitler",
+    "mmap",
+    "mfilter"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-mutable-array/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-mutable-array#readme"
+}
