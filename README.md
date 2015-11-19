@@ -27,12 +27,12 @@ api
 Standard Array.map functionality, but values that are returned from callback
 replace the original element in the array.
 
-### mfilter([array,], callback, thisArg)
+### mfilter([array,] callback, thisArg)
 
 Standard Array.filter functionality, but removes (using splice) values from
 the array if value returned from callback does not equal true.
 
-### applyPrototype
+### applyPrototype()
 
 Add all functions to the Array prototype.
 
